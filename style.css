@@ -1,0 +1,140 @@
+*{
+    margin:0%;
+    padding:0%;
+}
+body{
+    background-color: rgb(39, 39, 39);
+    overflow-x: hidden;
+}
+
+h2{
+font-family: sans-serif;
+font-weight: normal;
+font-size:28px;
+}
+.fblogo{
+    height:106px;
+    margin:-28px;
+}
+button{
+    background-color: lawngreen;
+    border-radius: 5px;
+    line-height: 48px;
+    font-size: 17px;
+}
+.email{
+    padding: 14px 16px ;
+    font-family: sans-serif;
+    border-radius: 5px;
+    border:0.8px 0.8px;
+    width:330px;
+    border-color:rgb(185, 179, 179);
+    font-size:17px;
+    margin-bottom: 12px;
+}
+.password{
+    
+    padding:14px 16px;
+    border:0.8px 0.8px;
+    border-radius:5px;
+    font-size:17px;
+    width:330px;
+    border-color:rgb(185, 179, 179);
+    font-family: sans-serif;
+    margin-bottom: 15px;
+}
+.submit{
+    width:365px;
+    padding:0px 16px;
+    line-height: 48px;
+    font-size:20px;
+    border-radius: 6px;
+    font-family:sans-serif;
+    font-weight: bold;
+    background-color: rgb(0, 110, 255);
+    border-color: rgb(0, 110, 255);
+    cursor: pointer;
+}
+.forgot{
+    font-family: sans-serif;
+    font-weight:normal;
+    text-align:center;
+    text-decoration:none;
+    font-size: 15px;
+    padding-left:110px;
+    line-height:48px;
+
+}
+ .head{
+    display:inline-block;
+    width:45%;
+    position: relative;
+    left: 260px;
+    top: 205px;
+    /* right:150px; */
+    
+}
+ .form{
+    display:inline-block;
+    background-color: rgb(31, 30, 30);
+    padding:15px 15px 15px 15px ;
+    border-radius: 6px;
+    position: relative;
+    left: 850px;
+    /* bottom: 50px; */
+}
+.fblogo{
+    margin-bottom:-15px;
+}
+button{
+    font-family: sans-serif;
+    font-weight: bold;
+    background-color: rgb(73, 165, 70);
+    padding:0px 16px;
+    line-height:48px;
+    position: relative;
+    left:80px;
+    border-color:rgb(73, 165, 70);
+    margin-bottom: 10px;
+    border-radius: 7px;
+    cursor: pointer;
+    
+
+    
+}
+hr{
+    margin-bottom:25px;
+    color: rgba(128, 128, 128, 0.856);
+    size: -2px;
+}
+.footer{
+   
+    position: relative;
+    top:210px;
+    left:260px;
+    font-size: 15px;
+    display:inline-block;
+    border-bottom-color: grey;
+    font-family:sans-serif;
+    font-weight: normal;
+    color: grey;
+}
+.fb{
+    width:500px;
+    color: #ebe5e5;
+
+}
+.page{
+  position: relative;
+  left:900px;
+  top:20px;
+  font-weight: normal;
+  font-family: sans-serif;
+  font-size: 15px;
+  margin-bottom: 50px;
+  
+}
+.on{
+    text-decoration: none;
+    color: white;
+}
