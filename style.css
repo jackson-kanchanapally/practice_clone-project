@@ -31,6 +31,7 @@ button{
     border-color:rgb(185, 179, 179);
     font-size:17px;
     margin-bottom: 12px;
+    opacity:0.3;
 }
 .password{
     
@@ -42,6 +43,7 @@ button{
     border-color:rgb(185, 179, 179);
     font-family: sans-serif;
     margin-bottom: 15px;
+    opacity: 0.3;
 }
 .submit{
     width:365px;
